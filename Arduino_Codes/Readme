@@ -1,0 +1,6 @@
+
+Readme
+
+In the scope of this project, an Arduino IDE code was performed to mount ADXL345 accelerometer and microSD Card 
+device to the Arduino board and data storage as an output of the accelerometer.
+
