@@ -16,3 +16,16 @@ Within the scope of “CE_103 Introduction to Computers and Programming for Civi
 _Keywords: Open source software, Python, Low-Cost Device, Undergraduate Education, Earthquake issues_
 
 ---
+
+## Project Team:
+
+_Ahu Komec Mutlu, Ulgen Mert Tugsal and Ahmet Anil Dindar_
+
+_Gebze Technical University, Civil Engineering Department, 41400 Kocaeli, Turkey_
+
+---
+
+## Acknowledgement:
+
+_This study was done in the framework of the **Scientific Research Project (2020-A-105-41) in Gebze Technical University**, and gratetfully acknowledged. Authors also would like to thank to undergraduate students **Şeyhmus Can TUNÇ, Doğukan ERKEK, Mehdil Buğra İNCE, Ahmet Burak BİLGİÇ** for their valuable contributions on this project._
+
