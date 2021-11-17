@@ -25,6 +25,23 @@ _Gebze Technical University, Civil Engineering Department, 41400 Kocaeli, Turkey
 
 ---
 
+## Publications:
+
+### Journal Article : 
+"Utilizing an Arduino‐Based Accelerometer in Civil Engineering Applications in Undergraduate Education" 
+Ahu Komec Mutlu; Ulgen MERT TUGSAL; AHMET ANIL DINDAR
+
+Seismological Research Letters (Nov, 2021) https://doi.org/10.1785/0220210137
+
+### Poster Presentation and Short Paper :
+6th International Conference on Earthquake Engineering and Seismology  
+13-15 October 2021 – GTU – Gebze, Kocaeli / Turkey
+
+FIGARO: Accelerometer Device Design by Integration of Arduino UNO and MEMS Circuit
+D. Erkek1*, S.C. Tunc1, A. Kömeç Mutlu2, A.A. Dindar2 and U. Mert Tuğsal2
+
+---
+
 ## Acknowledgement:
 
 _This study was done in the framework of the **Scientific Research Project (2020-A-105-41) in Gebze Technical University**, and gratetfully acknowledged. Authors also would like to thank to undergraduate students **Şeyhmus Can TUNÇ, Doğukan ERKEK, Mehdil Buğra İNCE, Ahmet Burak BİLGİÇ** for their valuable contributions on this project._
